@@ -1,2 +1,2 @@
 # calc
-Une petite calculatrice simple
+Une petite calculatrice simple en javascript
